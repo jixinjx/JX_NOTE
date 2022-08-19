@@ -7,8 +7,12 @@
         "id": "34e2ba1b3968f16a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "VUE/新建.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VUE/新建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VUE/新建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VUE/新建.md"
+              }
             }
           }
         ]
@@ -121,5 +129,9 @@
     "collapsed": true
   },
   "active": "34e2ba1b3968f16a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "未命名.md",
+    "git/git.md",
+    "JAVA/开发笔记.md"
+  ]
 }
