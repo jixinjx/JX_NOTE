@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "VUE/新建Vue项目.md",
+            "file": "VUE/VUE3.0/setup().md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VUE/新建Vue项目.md",
+                "file": "VUE/VUE3.0/setup().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VUE/新建Vue项目.md",
+                "file": "VUE/VUE3.0/setup().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VUE/新建Vue项目.md"
+                "file": "VUE/VUE3.0/setup().md"
               }
             }
           }
@@ -130,9 +130,8 @@
   },
   "active": "cc10a9dbed394438",
   "lastOpenFiles": [
-    "VUE/新建Vue项目.md",
-    "VUE/新建Vue项目.md",
     "VUE/element/实现aside侧边框高度占满整页.md",
+    "VUE/新建Vue项目.md",
     "未命名.md",
     "git/git.md",
     "JAVA/开发笔记.md"
