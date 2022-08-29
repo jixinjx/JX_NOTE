@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL/插入语句.md",
+            "file": "未命名.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/插入语句.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/插入语句.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/插入语句.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "cc10a9dbed394438",
   "lastOpenFiles": [
+    "SQL/插入语句.md",
     "VUE/VUE3.0/setup().md",
     "VUE/element/实现aside侧边框高度占满整页.md",
     "VUE/新建Vue项目.md",
