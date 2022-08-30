@@ -8,4 +8,17 @@ Spring MVC 全流程：
 在Web 服务器启动的过程中，如果在Spring Boot 机制下启用Spring MVC ， 它就开始初
 始化一些重要的组件，如DispactherS巳rvlet 、HandlerAdapter 的实现RequestMappingHandlerAdapter等组件对象。关于这些组件的初始化， 我们可以看到spring-webmvc-xxx.jar 包的属性文件DispatcherServ l et.propertion， 它定义的对象都是在SpringMVC 开始时就初始化，并且存放在Spring IoC容器中
 
+- 用户发送请求至前端控制器DispatcherServlet
+- DispatcherServlet收到请求调用HandlerMapping处理器映射器。
+- 处理器映射器根据请求url找到具体的处理器，生成处理器对象及处理器拦截器(如果有则生成)一并返回给DispatcherServlet。
+- DispatcherServlet通过HandlerAdapter处理器适配器调用处理器
+- 执行处理器(Controller，也叫后端控制器)。
+- Controller执行完成返回ModelAndView
+- HandlerAdapter将controller执行结果ModelAndView返回给DispatcherServlet
+- DispatcherServlet将ModelAndView传给ViewReslover视图解析器
+- ViewReslover解析后返回具体View
+- DispatcherServlet对View进行渲染视图（即将模型数据填充至视图中）。
+- DispatcherServlet响应用户。
+
+
 这里的注解＠Controller 表明这是一个控制器，然后＠Re questMapping 代表请求路径和控制器（或其方法）的映射关系，它会在Web 服务器启动Spring MVC 时，就被扫描到Handler Mapping 的机制中存储，之后在用户发起请求被DispatcherServlet 拦截后，通过URL和其他的条件， 通过Ha ndlerMapper机制就能找到对应的控制器（或其方法）进行响应。只是通过HandlerMapping 返回的是一个HandlerExecutionChain 对象

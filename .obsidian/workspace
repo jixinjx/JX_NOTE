@@ -128,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee63d5e0dd875540",
+  "active": "cc10a9dbed394438",
   "lastOpenFiles": [
+    "JAVA/MVC/Spring MVC.md",
     "JAVA/JAVA核心技术/JAVA核心技术.md",
     "JAVA/未命名.md",
     "JAVA/开发笔记.md",
@@ -138,7 +139,6 @@
     "SQL/插入语句.md",
     "未命名.md",
     "VUE/VUE3.0/setup().md",
-    "VUE/element/实现aside侧边框高度占满整页.md",
-    "VUE/新建Vue项目.md"
+    "VUE/element/实现aside侧边框高度占满整页.md"
   ]
 }
