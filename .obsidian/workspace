@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未命名.md",
+            "file": "JAVA/MVC/Spring MVC.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "JAVA/MVC/Spring MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "JAVA/MVC/Spring MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "JAVA/MVC/Spring MVC.md"
               }
             }
           }
@@ -130,12 +130,15 @@
   },
   "active": "cc10a9dbed394438",
   "lastOpenFiles": [
+    "JAVA/JAVA核心技术/JAVA核心技术.md",
+    "JAVA/未命名.md",
+    "JAVA/开发笔记.md",
+    "JAVA/项目笔记.md",
+    "JAVA/Maven.md",
     "SQL/插入语句.md",
+    "未命名.md",
     "VUE/VUE3.0/setup().md",
     "VUE/element/实现aside侧边框高度占满整页.md",
-    "VUE/新建Vue项目.md",
-    "未命名.md",
-    "git/git.md",
-    "JAVA/开发笔记.md"
+    "VUE/新建Vue项目.md"
   ]
 }
