@@ -4,16 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "cc10a9dbed394438",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SQL/start with.md",
-            "mode": "source",
-            "source": false
+        "id": "8b4c4834a7acb5d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "cc10a9dbed394438",
+            "type": "leaf",
+            "dimension": 74.35897435897436,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/GreenPlum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70a51ecd7bfafa91",
+            "type": "leaf",
+            "dimension": 25.64102564102564,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/GreenPlum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -77,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/start with.md",
+                "file": "SQL/GreenPlum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/start with.md",
+                "file": "SQL/GreenPlum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/start with.md"
+                "file": "SQL/GreenPlum.md"
               }
             }
           }
@@ -125,20 +146,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "cc10a9dbed394438",
   "lastOpenFiles": [
-    "JAVA/MVC/Spring MVC.md",
-    "JAVA/JAVA核心技术/JAVA核心技术阅读笔记.md",
-    "VUE/相关报错整理.md",
-    "VUE/未命名.md",
-    "前端项目开发笔记.md",
-    "SQL/不同的数据库.md",
+    "SQL/OLAP和OLTP.md",
+    "SQL/GreenPlum.md",
+    "SQL/Impala.md",
+    "SQL/GP和oracle的差别.md",
     "SQL/start with.md",
-    "JAVA/Spring boot/spring boot.md",
-    "JAVA/未命名.md",
-    "JAVA/开发笔记.md"
+    "SQL/不同的数据库.md",
+    "SQL/数据库类型.md",
+    "SQL/未命名.md",
+    "JAVA/MVC/Spring MVC.md",
+    "JAVA/JAVA核心技术/JAVA核心技术阅读笔记.md"
   ]
 }
