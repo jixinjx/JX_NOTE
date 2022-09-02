@@ -4,37 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b4c4834a7acb5d3",
-        "type": "split",
-        "children": [
-          {
-            "id": "cc10a9dbed394438",
-            "type": "leaf",
-            "dimension": 74.35897435897436,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/GreenPlum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70a51ecd7bfafa91",
-            "type": "leaf",
-            "dimension": 25.64102564102564,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/GreenPlum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "a86dc96f45c76fd7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SQL/GreenPlum.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -148,17 +127,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cc10a9dbed394438",
+  "active": "a86dc96f45c76fd7",
   "lastOpenFiles": [
     "SQL/OLAP和OLTP.md",
     "SQL/GreenPlum.md",
-    "SQL/Impala.md",
-    "SQL/GP和oracle的差别.md",
-    "SQL/start with.md",
-    "SQL/不同的数据库.md",
     "SQL/数据库类型.md",
+    "SQL/Impala.md",
+    "SQL/start with.md",
     "SQL/未命名.md",
-    "JAVA/MVC/Spring MVC.md",
-    "JAVA/JAVA核心技术/JAVA核心技术阅读笔记.md"
+    "SQL/GP和oracle的差别.md",
+    "SQL/插入语句.md",
+    "SQL/不同的数据库.md",
+    "JAVA/MVC/Spring MVC.md"
   ]
 }
