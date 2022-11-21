@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "316c26847ce1458a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c9c5b719648944d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a86dc96f45c76fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git常见.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d097295362d61b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/shell语法/常见符号.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9be2b5c995103d7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git常见.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c1edf5e362e4b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "258a668319345f58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee63d5e0dd875540",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3370a2513d1753a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de3cff3b6a5c2345",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "741621ecf1c4ca58",
+    "type": "split",
+    "children": [
+      {
+        "id": "9152f245f1d6f3b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc9daa539dd9413f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/git常见.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b64e3f8506219182",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git/git常见.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e79886194b73abf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a01b8d3e5b0493f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/git常见.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a86dc96f45c76fd7",
+  "lastOpenFiles": [
+    "VUE/同步与异步/Async与Await.md",
+    "VUE/同步与异步/promise.md",
+    "VUE/VUE3.0/setup().md",
+    "VUE/element/实现aside侧边框高度占满整页.md",
+    "git/git.md",
+    "培训.md",
+    "SQL/数据库/OLAP和OLTP.md",
+    "SQL/数据库/Impala.md",
+    "SQL/GP培训.md",
+    "零售代码走读.md"
+  ]
+}

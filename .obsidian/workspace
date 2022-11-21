@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "316c26847ce1458a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a86dc96f45c76fd7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SQL/数据库/OLAP和OLTP.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c1edf5e362e4b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "258a668319345f58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee63d5e0dd875540",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3370a2513d1753a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de3cff3b6a5c2345",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "741621ecf1c4ca58",
+    "type": "split",
+    "children": [
+      {
+        "id": "9152f245f1d6f3b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc9daa539dd9413f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SQL/数据库/OLAP和OLTP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b64e3f8506219182",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SQL/数据库/OLAP和OLTP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e79886194b73abf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a01b8d3e5b0493f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SQL/数据库/OLAP和OLTP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a86dc96f45c76fd7",
+  "lastOpenFiles": [
+    "培训.md",
+    "VUE/同步与异步/Async与Await.md",
+    "VUE/proxytable.md",
+    "零售代码走读.md",
+    "算法/pagerank.md",
+    "VUE/未命名.md",
+    "VUE/相关报错整理.md",
+    "VUE/新建Vue项目.md",
+    "VUE/同步与异步/promise.md",
+    "JAVA/代码走读/共.md"
+  ]
+}
