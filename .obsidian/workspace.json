@@ -4,7 +4,11 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "ffc3dbd684d038b5",
+=======
+        "id": "2c9c5b719648944d",
+>>>>>>> init
         "type": "tabs",
         "children": [
           {
@@ -13,7 +17,35 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "SQL/GreenPlum.md",
+=======
+                "file": "git/git常见.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d097295362d61b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/shell语法/常见符号.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9be2b5c995103d7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git常见.md",
+>>>>>>> init
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +117,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "SQL/GreenPlum.md",
+=======
+                "file": "git/git常见.md",
+>>>>>>> init
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "SQL/GreenPlum.md",
+=======
+                "file": "git/git常见.md",
+>>>>>>> init
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +165,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "SQL/GreenPlum.md"
+=======
+                "file": "git/git常见.md"
+>>>>>>> init
               }
             }
           }
@@ -137,6 +181,7 @@
   },
   "active": "a86dc96f45c76fd7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "SQL/OLAP和OLTP.md",
     "SQL/GreenPlum.md",
     "SQL/数据库类型.md",
@@ -147,5 +192,17 @@
     "SQL/插入语句.md",
     "SQL/不同的数据库.md",
     "JAVA/MVC/Spring MVC.md"
+=======
+    "VUE/同步与异步/Async与Await.md",
+    "VUE/同步与异步/promise.md",
+    "VUE/VUE3.0/setup().md",
+    "VUE/element/实现aside侧边框高度占满整页.md",
+    "git/git.md",
+    "培训.md",
+    "SQL/数据库/OLAP和OLTP.md",
+    "SQL/数据库/Impala.md",
+    "SQL/GP培训.md",
+    "零售代码走读.md"
+>>>>>>> init
   ]
 }
