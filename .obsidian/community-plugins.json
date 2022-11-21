@@ -1,9 +1,5 @@
 [
-<<<<<<< HEAD
-  "obsidian-git"
-=======
   "obsidian-git",
-  "cm-editor-syntax-highlight-obsidian",
-  "highlightr-plugin"
->>>>>>> init
+  "highlightr-plugin",
+  "cm-editor-syntax-highlight-obsidian"
 ]
