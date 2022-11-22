@@ -1,5 +1,5 @@
 [
-  "obsidian-git",
   "highlightr-plugin",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-git"
 ]
