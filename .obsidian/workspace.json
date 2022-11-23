@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0718970f5f7e82af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/HDFS/培训.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac334ef4663c29e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/HDFS/Mapreduce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git给远程仓库添加分支并上传文件.md",
+                "file": "SQL/HDFS/Mapreduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git给远程仓库添加分支并上传文件.md",
+                "file": "SQL/HDFS/Mapreduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git给远程仓库添加分支并上传文件.md"
+                "file": "SQL/HDFS/Mapreduce.md"
               }
             }
           }
@@ -149,8 +173,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f343d07d16279ff0",
+  "active": "ac334ef4663c29e6",
   "lastOpenFiles": [
+    "SQL/HDFS/培训.md",
+    "git/git给远程仓库添加分支并上传文件.md",
     "git/git.md",
     "git/git常见.md"
   ]
