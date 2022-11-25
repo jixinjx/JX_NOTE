@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/HDFS/Mapreduce.md",
+                "file": "git/git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b73b962ab19e275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/merge 冲突.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06684aee688f7dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/fork merge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/HDFS/Mapreduce.md",
+                "file": "git/fork merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/HDFS/Mapreduce.md",
+                "file": "git/fork merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/HDFS/Mapreduce.md"
+                "file": "git/fork merge.md"
               }
             }
           }
@@ -173,11 +197,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac334ef4663c29e6",
+  "active": "06684aee688f7dde",
   "lastOpenFiles": [
-    "SQL/HDFS/培训.md",
-    "git/git给远程仓库添加分支并上传文件.md",
+    "git/merge 冲突.md",
     "git/git.md",
-    "git/git常见.md"
+    "git/git常见.md",
+    "git/git给远程仓库添加分支并上传文件.md",
+    "SQL/不同的数据库.md",
+    "SQL/HDFS/Mapreduce.md",
+    "SQL/HDFS/培训.md"
   ]
 }
