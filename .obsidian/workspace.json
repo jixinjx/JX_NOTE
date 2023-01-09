@@ -140,12 +140,14 @@
             }
           },
           {
-            "id": "c1866ebe32a4535c",
+            "id": "996f7c0fcc7959c5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "JAVA/开发笔记.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -277,17 +279,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c1866ebe32a4535c",
+  "active": "996f7c0fcc7959c5",
   "lastOpenFiles": [
+    "JAVA/代码走读/零售标签平台首页走读.md",
+    "JAVA/Spring boot/注解.md",
+    "JAVA/开发笔记.md",
     "JAVA/Maven.md",
     "JAVA/项目笔记.md",
-    "JAVA/开发笔记.md",
     "JAVA/Spring boot/spring boot.md",
     "SQL/语法/HIVE日期函数.md",
     "SQL/语法/oracle日期函数.md",
     "SQL/语法/GP日期函数.md",
-    "VUE/同步与异步/Async与Await.md",
-    "git/git常见.md",
-    "git/git给远程仓库添加分支并上传文件.md"
+    "VUE/同步与异步/Async与Await.md"
   ]
 }
