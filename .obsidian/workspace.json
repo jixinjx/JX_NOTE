@@ -174,9 +174,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f61a828868d7262a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/开发笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -303,17 +315,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ac5ab942b442885d",
+  "active": "f61a828868d7262a",
   "lastOpenFiles": [
+    "JAVA/标签平台开发/标签平台使用情况分析.md",
+    "JAVA/开发笔记.md",
     "git/fork merge.md",
     "git/git.md",
     "CSS/CSSdiv内子元素div，平均分配宽度表示.md",
     "前端常用/前端常用网址.md",
     "git/git常见.md",
     "git/git给远程仓库添加分支并上传文件.md",
-    "JAVA/开发笔记.md",
     "JAVA/未命名.md",
-    "JAVA/项目笔记.md",
-    "JAVA/Spring boot/spring boot.md"
+    "JAVA/项目笔记.md"
   ]
 }
