@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Spring boot/Mapper/$和井号的区别.md",
+                "file": "SQL/语法/插入语句.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Spring boot/Mapper/$和井号的区别.md",
+                "file": "SQL/语法/插入语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Spring boot/Mapper/$和井号的区别.md",
+                "file": "SQL/语法/插入语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Spring boot/Mapper/$和井号的区别.md"
+                "file": "SQL/语法/插入语句.md"
               }
             }
           }
@@ -341,15 +341,15 @@
   },
   "active": "18401842dcb46251",
   "lastOpenFiles": [
+    "VUE/新建Vue项目.md",
+    "VUE/相关报错整理.md",
+    "VUE/未命名.md",
+    "VUE/接口问题.md",
+    "JAVA/Spring boot/Mapper/$和井号的区别.md",
     "JAVA/Spring boot/注解/@EXCEL.md",
     "JAVA/Spring boot/注解.md",
     "git/git常见.md",
     "git/git.md",
-    "SQL/语法/oracle日期函数.md",
-    "JAVA/开发笔记.md",
-    "JAVA/标签平台开发/标签平台使用情况分析.md",
-    "git/fork merge.md",
-    "CSS/CSSdiv内子元素div，平均分配宽度表示.md",
-    "前端常用/前端常用网址.md"
+    "SQL/语法/oracle日期函数.md"
   ]
 }
