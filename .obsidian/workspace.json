@@ -210,9 +210,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6338db0785740956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/常见命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8966a4d90fb2d9d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/性能查询相关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -278,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端常用/前端常用网址.md",
+                "file": "linux/性能查询相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端常用/前端常用网址.md",
+                "file": "linux/性能查询相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端常用/前端常用网址.md"
+                "file": "linux/性能查询相关.md"
               }
             }
           }
@@ -339,8 +363,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "18401842dcb46251",
+  "active": "8966a4d90fb2d9d9",
   "lastOpenFiles": [
+    "linux/常见命令.md",
+    "linux/性能查询相关.md",
+    "SQL/语法/常见函数.md",
+    "前端常用/前端常用网址.md",
     "SQL/语法/oracle日期函数.md",
     "SQL/语法/插入语句.md",
     "VUE/新建Vue项目.md",
