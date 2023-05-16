@@ -234,9 +234,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b36a2a0ced7f1b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "业务系统/个贷.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -281,6 +293,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c014a963f3c75a6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -302,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git常见.md",
+                "file": "业务系统/个贷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git常见.md",
+                "file": "业务系统/个贷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git常见.md"
+                "file": "业务系统/个贷.md"
               }
             }
           }
@@ -363,8 +383,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8966a4d90fb2d9d9",
+  "active": "7b36a2a0ced7f1b2",
   "lastOpenFiles": [
+    "业务系统/个贷.md",
+    "业务系统",
     "git/git给远程仓库添加分支并上传文件.md",
     "git/merge 冲突.md",
     "git/fork merge.md",
