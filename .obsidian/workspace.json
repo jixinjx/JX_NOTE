@@ -256,9 +256,19 @@
                 "currentVersion": "1.3.7"
               }
             }
+          },
+          {
+            "id": "aad2555fe3a0a3ed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -393,7 +403,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "49ebc9d5b2c7eacd",
+  "active": "aad2555fe3a0a3ed",
   "lastOpenFiles": [
     "业务系统/个贷.md",
     "业务系统",
