@@ -241,34 +241,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/语法/HIVE日期函数.md",
+                "file": "自动化换版/自动化换版.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "49ebc9d5b2c7eacd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
-            "id": "aad2555fe3a0a3ed",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -342,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/语法/HIVE日期函数.md",
+                "file": "自动化换版/自动化换版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/语法/HIVE日期函数.md",
+                "file": "自动化换版/自动化换版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -382,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/语法/HIVE日期函数.md"
+                "file": "自动化换版/自动化换版.md"
               }
             }
           }
@@ -403,8 +383,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aad2555fe3a0a3ed",
+  "active": "7b36a2a0ced7f1b2",
   "lastOpenFiles": [
+    "SQL/语法/HIVE日期函数.md",
+    "自动化换版/自动化换版.md",
+    "自动化换版",
     "业务系统/个贷.md",
     "业务系统",
     "git/git给远程仓库添加分支并上传文件.md",
