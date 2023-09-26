@@ -385,8 +385,9 @@
   },
   "active": "7b36a2a0ced7f1b2",
   "lastOpenFiles": [
-    "业务系统/个贷.md",
+    "git/git常见.md",
     "业务系统/信贷相关.md",
+    "业务系统/个贷.md",
     "自动化换版/自动化换版.md",
     "SQL/语法/HIVE日期函数.md",
     "自动化换版",
@@ -407,7 +408,6 @@
     "VUE/接口问题.md",
     "JAVA/Spring boot/Mapper/$和井号的区别.md",
     "JAVA/Spring boot/注解/@EXCEL.md",
-    "JAVA/Spring boot/注解.md",
-    "git/git常见.md"
+    "JAVA/Spring boot/注解.md"
   ]
 }
