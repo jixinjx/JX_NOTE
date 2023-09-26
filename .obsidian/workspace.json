@@ -241,7 +241,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自动化换版/自动化换版.md",
+                "file": "业务系统/信贷相关.md",
                 "mode": "source",
                 "source": false
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自动化换版/自动化换版.md",
+                "file": "业务系统/信贷相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自动化换版/自动化换版.md",
+                "file": "业务系统/信贷相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自动化换版/自动化换版.md"
+                "file": "业务系统/信贷相关.md"
               }
             }
           }
@@ -385,10 +385,11 @@
   },
   "active": "7b36a2a0ced7f1b2",
   "lastOpenFiles": [
-    "SQL/语法/HIVE日期函数.md",
-    "自动化换版/自动化换版.md",
-    "自动化换版",
     "业务系统/个贷.md",
+    "业务系统/信贷相关.md",
+    "自动化换版/自动化换版.md",
+    "SQL/语法/HIVE日期函数.md",
+    "自动化换版",
     "业务系统",
     "git/git给远程仓库添加分支并上传文件.md",
     "git/merge 冲突.md",
