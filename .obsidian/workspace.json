@@ -167,9 +167,11 @@
             "id": "36f6e2603eb9cc19",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "git/git常见.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -332,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端常用/前端常用网址.md",
+                "file": "git/git常见.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -349,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端常用/前端常用网址.md",
+                "file": "git/git常见.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,7 +374,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端常用/前端常用网址.md"
+                "file": "git/git常见.md"
               }
             }
           }
@@ -395,22 +397,22 @@
   },
   "active": "36f6e2603eb9cc19",
   "lastOpenFiles": [
+    "git/git给远程仓库添加分支并上传文件.md",
+    "git/git.md",
+    "git/git常见.md",
+    "git/fork merge.md",
+    "git/merge 冲突.md",
     "JAVA/开发笔记.md",
     "JAVA/Spring boot/注解.md",
     "JAVA/Spring boot/注解/@EXCEL.md",
     "前端常用/前端常用网址.md",
     "linux/常见命令.md",
-    "git/git常见.md",
     "业务系统/信贷相关.md",
     "业务系统/个贷.md",
     "自动化换版/自动化换版.md",
     "SQL/语法/HIVE日期函数.md",
     "自动化换版",
     "业务系统",
-    "git/git给远程仓库添加分支并上传文件.md",
-    "git/merge 冲突.md",
-    "git/fork merge.md",
-    "git/git.md",
     "linux/性能查询相关.md",
     "SQL/语法/常见函数.md",
     "SQL/语法/oracle日期函数.md",

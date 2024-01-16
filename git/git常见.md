@@ -41,7 +41,7 @@ git push origin master
 
 1：切换到远程仓库地址
 
- git remote set-url origin URL   --URL为新地址
+ git remote set-url origin URL   --URL为新地址gitgit
 
 2：先删除远程仓库地址，然后在添加
 
