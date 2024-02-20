@@ -176,6 +176,16 @@
             }
           },
           {
+            "id": "cc5212373981f58f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "ac5ab942b442885d",
             "type": "leaf",
             "state": {
@@ -260,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -395,7 +405,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36f6e2603eb9cc19",
+  "active": "cc5212373981f58f",
   "lastOpenFiles": [
     "git/git给远程仓库添加分支并上传文件.md",
     "git/git.md",
