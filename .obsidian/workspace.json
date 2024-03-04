@@ -176,16 +176,6 @@
             }
           },
           {
-            "id": "cc5212373981f58f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
             "id": "ac5ab942b442885d",
             "type": "leaf",
             "state": {
@@ -270,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -405,8 +395,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cc5212373981f58f",
+  "active": "36f6e2603eb9cc19",
   "lastOpenFiles": [
+    "未命名.canvas",
     "git/git给远程仓库添加分支并上传文件.md",
     "git/git.md",
     "git/git常见.md",
