@@ -157,19 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端常用/前端常用网址.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36f6e2603eb9cc19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/git常见.md",
+                "file": "JAVA/标签平台开发/标签平台使用情况分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -260,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -334,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git常见.md",
+                "file": "JAVA/标签平台开发/标签平台使用情况分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git常见.md",
+                "file": "JAVA/标签平台开发/标签平台使用情况分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -374,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git常见.md"
+                "file": "JAVA/标签平台开发/标签平台使用情况分析.md"
               }
             }
           }
@@ -395,18 +383,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36f6e2603eb9cc19",
+  "active": "3b5779742a5d4e30",
   "lastOpenFiles": [
+    "JAVA/开发笔记.md",
+    "JAVA/Maven.md",
+    "JAVA/项目笔记.md",
+    "JAVA/未命名.md",
+    "前端常用/前端常用网址.md",
+    "未命名 1.canvas",
+    "git/git常见.md",
     "未命名.canvas",
     "git/git给远程仓库添加分支并上传文件.md",
     "git/git.md",
-    "git/git常见.md",
     "git/fork merge.md",
     "git/merge 冲突.md",
-    "JAVA/开发笔记.md",
     "JAVA/Spring boot/注解.md",
     "JAVA/Spring boot/注解/@EXCEL.md",
-    "前端常用/前端常用网址.md",
     "linux/常见命令.md",
     "业务系统/信贷相关.md",
     "业务系统/个贷.md",
