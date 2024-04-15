@@ -90,175 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e61b6d8a33983d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/代码走读/查看接口.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31038e05073f3b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VUE/同步与异步/Async与Await.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c96c4eb5bb8055fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/语法/HIVE日期函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfd76909c2780bbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/开发笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "996f7c0fcc7959c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/git常见.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b5779742a5d4e30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/标签平台开发/标签平台使用情况分析.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac5ab942b442885d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/开发笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f61a828868d7262a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/Spring boot/注解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9deb3932eed6bf7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/Spring boot/注解/@EXCEL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18401842dcb46251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端常用/前端常用网址.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6338db0785740956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/常见命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8966a4d90fb2d9d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/git常见.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b36a2a0ced7f1b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "业务系统/信贷相关.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de867e6505c4a040",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -332,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Spring boot/注解.md",
+                "file": "JAVA/代码走读/共.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -349,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Spring boot/注解.md",
+                "file": "JAVA/代码走读/共.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Spring boot/注解.md"
+                "file": "JAVA/代码走读/共.md"
               }
             }
           }
@@ -392,7 +226,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "de867e6505c4a040",
+  "active": "4d9f732a4b7955ff",
   "lastOpenFiles": [
     "JAVA/开发笔记.md",
     "JAVA/标签平台开发/标签平台使用情况分析.md",
