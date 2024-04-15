@@ -164,16 +164,6 @@
             }
           },
           {
-            "id": "ade732db76553537",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
             "id": "ac5ab942b442885d",
             "type": "leaf",
             "state": {
@@ -256,9 +246,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de867e6505c4a040",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -332,7 +332,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/标签平台开发/标签平台使用情况分析.md",
+                "file": "JAVA/Spring boot/注解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -349,7 +349,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/标签平台开发/标签平台使用情况分析.md",
+                "file": "JAVA/Spring boot/注解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/标签平台开发/标签平台使用情况分析.md"
+                "file": "JAVA/Spring boot/注解.md"
               }
             }
           }
@@ -380,8 +380,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -393,9 +392,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ade732db76553537",
+  "active": "de867e6505c4a040",
   "lastOpenFiles": [
     "JAVA/开发笔记.md",
+    "JAVA/标签平台开发/标签平台使用情况分析.md",
     "JAVA/Maven.md",
     "JAVA/项目笔记.md",
     "JAVA/未命名.md",
@@ -423,7 +423,6 @@
     "VUE/新建Vue项目.md",
     "VUE/相关报错整理.md",
     "VUE/未命名.md",
-    "VUE/接口问题.md",
-    "JAVA/Spring boot/Mapper/$和井号的区别.md"
+    "VUE/接口问题.md"
   ]
 }
