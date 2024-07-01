@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git.md",
+                "file": "git/fork merge.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/代码走读/共.md",
+                "file": "git/fork merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/代码走读/共.md",
+                "file": "git/fork merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/代码走读/共.md"
+                "file": "git/fork merge.md"
               }
             }
           }
@@ -226,8 +226,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4d9f732a4b7955ff",
+  "active": "ac334ef4663c29e6",
   "lastOpenFiles": [
+    "git/merge 冲突.md",
+    "git/git常见.md",
+    "git/git.md",
+    "JAVA/代码走读/共.md",
     "JAVA/开发笔记.md",
     "JAVA/标签平台开发/标签平台使用情况分析.md",
     "JAVA/Maven.md",
@@ -235,12 +239,9 @@
     "JAVA/未命名.md",
     "前端常用/前端常用网址.md",
     "未命名 1.canvas",
-    "git/git常见.md",
     "未命名.canvas",
     "git/git给远程仓库添加分支并上传文件.md",
-    "git/git.md",
     "git/fork merge.md",
-    "git/merge 冲突.md",
     "JAVA/Spring boot/注解.md",
     "JAVA/Spring boot/注解/@EXCEL.md",
     "linux/常见命令.md",
@@ -256,7 +257,6 @@
     "SQL/语法/插入语句.md",
     "VUE/新建Vue项目.md",
     "VUE/相关报错整理.md",
-    "VUE/未命名.md",
-    "VUE/接口问题.md"
+    "VUE/未命名.md"
   ]
 }
