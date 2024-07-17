@@ -56,6 +56,26 @@
             }
           },
           {
+            "id": "67420f67f0f8c4d6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "96f32d2495fbad47",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "6b73b962ab19e275",
             "type": "leaf",
             "state": {
@@ -92,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,7 +246,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ac334ef4663c29e6",
+  "active": "96f32d2495fbad47",
   "lastOpenFiles": [
     "git/merge 冲突.md",
     "git/git常见.md",
