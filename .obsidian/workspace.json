@@ -76,6 +76,16 @@
             }
           },
           {
+            "id": "22124356e6a352b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "6b73b962ab19e275",
             "type": "leaf",
             "state": {
@@ -112,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -246,7 +256,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "96f32d2495fbad47",
+  "active": "22124356e6a352b7",
   "lastOpenFiles": [
     "git/merge 冲突.md",
     "git/git常见.md",
