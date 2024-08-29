@@ -4,125 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cd0ee877649b7350",
+        "id": "ba2ee422881895db",
         "type": "tabs",
         "children": [
           {
-            "id": "348ce936aea055ce",
+            "id": "22b2e16037e1ab9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f343d07d16279ff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/git给远程仓库添加分支并上传文件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0718970f5f7e82af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/HDFS/培训.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac334ef4663c29e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/fork merge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67420f67f0f8c4d6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "96f32d2495fbad47",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "22124356e6a352b7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "6b73b962ab19e275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/merge 冲突.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06684aee688f7dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/fork merge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d9f732a4b7955ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/代码走读/共.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/fork merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/fork merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,12 +126,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "git/fork merge.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -256,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "22124356e6a352b7",
+  "active": "dd6dd668a4abba93",
   "lastOpenFiles": [
+    "未命名 2.canvas",
     "git/merge 冲突.md",
     "git/git常见.md",
     "git/git.md",
@@ -286,7 +177,6 @@
     "SQL/语法/oracle日期函数.md",
     "SQL/语法/插入语句.md",
     "VUE/新建Vue项目.md",
-    "VUE/相关报错整理.md",
-    "VUE/未命名.md"
+    "VUE/相关报错整理.md"
   ]
 }
